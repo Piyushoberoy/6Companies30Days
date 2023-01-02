@@ -8,8 +8,8 @@ LinkedIn:- https://www.linkedin.com/in/piyush2402/
 
 Youtube Video https://www.youtube.com/watch?v=QUnaBYKQkZU
 
-#### Day 1-5:
-### Challenge Company 1 : Microsoft 
+### Day 1-5:
+#### Challenge Company 1 : Microsoft 
 1. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. https://leetcode.com/problems/evaluate-reverse-polish-notation/
 2. Combination Sum with a twist. https://leetcode.com/problems/combination-sum-iii/
 3. Bulls and Cows https://leetcode.com/problems/bulls-and-cows/
