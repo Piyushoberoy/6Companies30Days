@@ -1,8 +1,8 @@
-PROBLEM STATEMENT:-
-Combination Sum with a twist.
-https://leetcode.com/problems/combination-sum-iii/description/
+#PROBLEM STATEMENT:-
+#Combination Sum with a twist.
+#https://leetcode.com/problems/combination-sum-iii/description/
 
-CODE:-
+#CODE:-
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
         self.result =[]
@@ -18,5 +18,5 @@ class Solution:
         for i in range(start, 10):
             self.backTracking(path+[i], i+1, k-1, target-i)
 
-CONCEPT USED:-
-BACKTRACKING
+#CONCEPT USED:-
+#BACKTRACKING
