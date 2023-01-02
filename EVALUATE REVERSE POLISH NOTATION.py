@@ -1,8 +1,8 @@
-PROBLEM:-
-You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
-https://leetcode.com/problems/evaluate-reverse-polish-notation/
+#PROBLEM:-
+#You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
+#https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
-CODE:-
+#CODE:-
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         F = []
@@ -27,5 +27,5 @@ class Solution:
                 F.append(int(a))
         return F.pop()
         
-DATA STRUCTURE USED:-
-STACK
+#DATA STRUCTURE USED:-
+#STACK
