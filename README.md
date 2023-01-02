@@ -4,13 +4,12 @@ Portfolio:- https://piyushoberoy.github.io/VALISE/
 GitHub:- https://github.com/Piyushoberoy
 LinkedIn:- https://www.linkedin.com/in/piyush2402/
 
-# ReviseWithArsh #6Companies30Days ArshGoyal
-# ReviseWithArsh #6Companies30Days Challenge!
+# #ReviseWithArsh #6Companies30Days #Challenge ArshGoyal
 
 Youtube Video https://www.youtube.com/watch?v=QUnaBYKQkZU
 
-# Day 1-5:
-Challenge Company 1 : Microsoft 
+#### Day 1-5:
+### Challenge Company 1 : Microsoft 
 1. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. https://leetcode.com/problems/evaluate-reverse-polish-notation/
 2. Combination Sum with a twist. https://leetcode.com/problems/combination-sum-iii/
 3. Bulls and Cows https://leetcode.com/problems/bulls-and-cows/
