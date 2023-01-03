@@ -15,7 +15,7 @@ class Solution:
             sums = max(c_sum, sums)
         return sums
 
-# LOGIC USED:-
+# LOGIC/ TECHNIQUE USED:-
 # Dynamic Programming
 
 # TIME COMPLEXITY:-
