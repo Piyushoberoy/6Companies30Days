@@ -15,5 +15,8 @@ class Solution:
             sums = max(c_sum, sums)
         return sums
 
-# TIME COMPLEXITY
+# LOGIC USED:-
+# Dynamic Programming
+
+# TIME COMPLEXITY:-
 # O(n)
