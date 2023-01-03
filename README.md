@@ -1,8 +1,8 @@
 # #6Companies30Days JANUARY 2023
-Name:- PIYUSH <br>
-Portfolio:- https://piyushoberoy.github.io/VALISE/ <br>
-GitHub:- https://github.com/Piyushoberoy <br>
-LinkedIn:- https://www.linkedin.com/in/piyush2402/ <br>
+# Name:- PIYUSH <br>
+# Portfolio:- https://piyushoberoy.github.io/VALISE/ <br>
+# GitHub:- https://github.com/Piyushoberoy <br>
+# LinkedIn:- https://www.linkedin.com/in/piyush2402/ <br>
 
 # #ReviseWithArsh #6Companies30Days #Challenge ArshGoyal
 
