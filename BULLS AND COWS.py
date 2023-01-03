@@ -1,7 +1,10 @@
-#PROBLEM STATEMENT:-
-#Bulls and Cows
+# PROBLEM STATEMENT:-
+# Bulls and Cows
 
-#LINK:-
-#https://leetcode.com/problems/bulls-and-cows/
+# LINK:-
+# https://leetcode.com/problems/bulls-and-cows/
 
-#CODE:-
+# CODE:-
+
+# TIME COMPLEXITY:-
+# 
